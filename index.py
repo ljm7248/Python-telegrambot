@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # python-telegram-bot, emoji 설치
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
 from emoji import emojize
