@@ -4,7 +4,6 @@ from emoji import emojize
 from bs4 import BeautifulSoup
 import time
 import requests
-import cv2
 import datetime
 import schedule
 #cctv를 위해서
